@@ -16,7 +16,6 @@
 	padding:10px;
 	background-color:rgb(29,29,29);
 }
-.container div:hover{
+.square-1:hover{
     background-color:red;    
 }
-.div{transition-delay:1s;}
